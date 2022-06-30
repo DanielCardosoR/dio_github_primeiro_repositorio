@@ -1,2 +1,21 @@
-links para download 
+*links para download 
 Git:https://git-scm.com/downloads
+
+Principais comandos Git:
+
+* Configurações iniciais
+
+ git config --global user.name <nome de usuário> # => Configura nome de usuário que marcará os commits
+ git config --global user.email <email@email.com.br> # => Configura o email que marcará os commits
+
+* Inicializando um repositório
+
+  git init
+  
+* Verificar o status do repositório
+
+  git status
+  
+* Adicionar um repositório remoto
+
+  git remote add origin https://github.com/User/Repository.git
