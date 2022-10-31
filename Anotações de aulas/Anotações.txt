@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 *links para download 
+=======
+links para download 
+>>>>>>> Stashed changes
 Git:https://git-scm.com/downloads
 
 Principais comandos Git:
